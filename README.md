@@ -1,8 +1,8 @@
 <h1 align="center">Hello there! Welcome to Mossical's GitHub Profile!</h1>
-<h3 align="center">I'm currently a college student with no declared major.</h3>
+<h3 align="center">I'm currently a college student with my major in Radiological Health Sciences.</h3>
 
 ---
-Hello there. My name is **Shaun A**, currently an Exploratory Studies student at an unnamed university. I can't say I am the best at something or anything of the like but, I do have experience with various systems. My primary directive is to become a Nuclear Engineer for the US Navy but, also looking into Cybersecurity and other fields. If you wish to contact me, I'm still setting up my professional persona so, I have no contact methods other than here. Sorry.
+Hello there. My name is **Shaun A**, currently a Radiological Health Sciences student at Purdue University. I can't say I am the best at something or anything of the like but, I do have experience with various systems. My primary directive is to continue my education into medical school for radiology. Alternatively, I may strive to become a Nuclear Engineer in the United States Navy. If you wish to contact me, good luck.
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mossical" alt="mossical" /></a> </p>
